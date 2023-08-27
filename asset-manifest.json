@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css",
-    "main.js": "/hossam_mahmoud_portfolio/static/js/main.45a0703e.js",
+    "main.js": "/hossam_mahmoud_portfolio/static/js/main.5af9d163.js",
     "static/media/CValue.png": "/hossam_mahmoud_portfolio/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/hossam_mahmoud_portfolio/static/media/Nourhan-Shakir.daed320f00c461349137.png",
+    "static/media/Fit-Club.png": "/hossam_mahmoud_portfolio/static/media/Fit-Club.d313ea6f48eb88368cc0.png",
     "static/media/CValue1.png": "/hossam_mahmoud_portfolio/static/media/CValue1.5f3e99ad69f158800546.png",
+    "static/media/Light-plus.png": "/hossam_mahmoud_portfolio/static/media/Light-plus.c4a23e1d8c765add6c38.png",
     "static/media/Nourhan-Shakir1.png": "/hossam_mahmoud_portfolio/static/media/Nourhan-Shakir1.98e2bce1dc619d1ef128.png",
     "static/media/IMG_yphqhh222-removebg.png": "/hossam_mahmoud_portfolio/static/media/IMG_yphqhh222-removebg.c436d98094c1dd8805b3.png",
     "static/media/laptop-png-6759.png": "/hossam_mahmoud_portfolio/static/media/laptop-png-6759.9a57d78c3d3284e9a6ea.png",
@@ -15,6 +17,7 @@
     "static/media/upwork 1.svg": "/hossam_mahmoud_portfolio/static/media/upwork 1.d46dfc550e667b18267ec72ca4dd5eb7.svg",
     "static/media/graduation-cap-solid.svg": "/hossam_mahmoud_portfolio/static/media/graduation-cap-solid.f351da4f6c31512f686383527bba9fee.svg",
     "static/media/MaterialUI.svg": "/hossam_mahmoud_portfolio/static/media/MaterialUI.a8828de2160f8f4ba97fe3f8f6fefd10.svg",
+    "static/media/square-js.svg": "/hossam_mahmoud_portfolio/static/media/square-js.420777e1bff510426d9c591ed3d46de0.svg",
     "index.html": "/hossam_mahmoud_portfolio/index.html",
     "static/media/laptop-code-solid.svg": "/hossam_mahmoud_portfolio/static/media/laptop-code-solid.94a7a9f3e712f92fb3e8b899f6a920c4.svg",
     "static/media/user-tie-solid.svg": "/hossam_mahmoud_portfolio/static/media/user-tie-solid.f421ff00c0222a1ac7b86bdaf762644c.svg",
@@ -23,13 +26,14 @@
     "static/media/css3-alt.svg": "/hossam_mahmoud_portfolio/static/media/css3-alt.043007c3d7e02c2b1540835ab21a5a91.svg",
     "static/media/arrow-right-solid.svg": "/hossam_mahmoud_portfolio/static/media/arrow-right-solid.cbce83ae8b964c3a8379692addc45f5f.svg",
     "static/media/arrow-left-solid.svg": "/hossam_mahmoud_portfolio/static/media/arrow-left-solid.261fc5b9e874e6b41662b6f4cb9bbc60.svg",
+    "static/media/html5.svg": "/hossam_mahmoud_portfolio/static/media/html5.2f24f570ceceefab775add2eec442919.svg",
     "static/media/axios.svg": "/hossam_mahmoud_portfolio/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/hossam_mahmoud_portfolio/static/media/Mostaql.d1238bbdb7e3e5aab3139e53f81efc7a.svg",
     "main.496a4825.css.map": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css.map",
-    "main.45a0703e.js.map": "/hossam_mahmoud_portfolio/static/js/main.45a0703e.js.map"
+    "main.5af9d163.js.map": "/hossam_mahmoud_portfolio/static/js/main.5af9d163.js.map"
   },
   "entrypoints": [
     "static/css/main.496a4825.css",
-    "static/js/main.45a0703e.js"
+    "static/js/main.5af9d163.js"
   ]
 }
