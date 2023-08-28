@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css",
-    "main.js": "/hossam_mahmoud_portfolio/static/js/main.b113768a.js",
+    "main.js": "/hossam_mahmoud_portfolio/static/js/main.a747a140.js",
     "static/media/CValue.png": "/hossam_mahmoud_portfolio/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/hossam_mahmoud_portfolio/static/media/Nourhan-Shakir.daed320f00c461349137.png",
     "static/media/Fit-Club.png": "/hossam_mahmoud_portfolio/static/media/Fit-Club.d313ea6f48eb88368cc0.png",
@@ -30,10 +30,10 @@
     "static/media/axios.svg": "/hossam_mahmoud_portfolio/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/hossam_mahmoud_portfolio/static/media/Mostaql.d1238bbdb7e3e5aab3139e53f81efc7a.svg",
     "main.496a4825.css.map": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css.map",
-    "main.b113768a.js.map": "/hossam_mahmoud_portfolio/static/js/main.b113768a.js.map"
+    "main.a747a140.js.map": "/hossam_mahmoud_portfolio/static/js/main.a747a140.js.map"
   },
   "entrypoints": [
     "static/css/main.496a4825.css",
-    "static/js/main.b113768a.js"
+    "static/js/main.a747a140.js"
   ]
 }
