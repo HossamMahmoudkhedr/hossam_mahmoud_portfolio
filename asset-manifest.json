@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css",
-    "main.js": "/hossam_mahmoud_portfolio/static/js/main.6a8502cb.js",
+    "main.js": "/hossam_mahmoud_portfolio/static/js/main.b952d717.js",
     "static/media/CValue.png": "/hossam_mahmoud_portfolio/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/hossam_mahmoud_portfolio/static/media/Nourhan-Shakir.daed320f00c461349137.png",
-    "static/media/Fit-Club.png": "/hossam_mahmoud_portfolio/static/media/Fit-Club.d313ea6f48eb88368cc0.png",
+    "static/media/Fit-Club.png": "/hossam_mahmoud_portfolio/static/media/Fit-Club.980ad9db72cd0616a07f.png",
     "static/media/CValue1.png": "/hossam_mahmoud_portfolio/static/media/CValue1.5f3e99ad69f158800546.png",
+    "static/media/Bondi.png": "/hossam_mahmoud_portfolio/static/media/Bondi.a70cb5ae1322f0f74ffe.png",
     "static/media/Light-plus.png": "/hossam_mahmoud_portfolio/static/media/Light-plus.c4a23e1d8c765add6c38.png",
+    "static/media/Simah.png": "/hossam_mahmoud_portfolio/static/media/Simah.f591db8eb8695b9ca5ad.png",
     "static/media/Nourhan-Shakir1.png": "/hossam_mahmoud_portfolio/static/media/Nourhan-Shakir1.98e2bce1dc619d1ef128.png",
     "static/media/IMG_yphqhh222-removebg.png": "/hossam_mahmoud_portfolio/static/media/IMG_yphqhh222-removebg.c436d98094c1dd8805b3.png",
     "static/media/laptop-png-6759.png": "/hossam_mahmoud_portfolio/static/media/laptop-png-6759.9a57d78c3d3284e9a6ea.png",
@@ -30,10 +32,10 @@
     "static/media/axios.svg": "/hossam_mahmoud_portfolio/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/hossam_mahmoud_portfolio/static/media/Mostaql.d1238bbdb7e3e5aab3139e53f81efc7a.svg",
     "main.496a4825.css.map": "/hossam_mahmoud_portfolio/static/css/main.496a4825.css.map",
-    "main.6a8502cb.js.map": "/hossam_mahmoud_portfolio/static/js/main.6a8502cb.js.map"
+    "main.b952d717.js.map": "/hossam_mahmoud_portfolio/static/js/main.b952d717.js.map"
   },
   "entrypoints": [
     "static/css/main.496a4825.css",
-    "static/js/main.6a8502cb.js"
+    "static/js/main.b952d717.js"
   ]
 }
