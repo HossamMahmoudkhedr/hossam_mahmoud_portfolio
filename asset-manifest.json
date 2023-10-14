@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7f74c9da.css",
-    "main.js": "/static/js/main.f7b93101.js",
+    "main.js": "/static/js/main.18614816.js",
     "static/media/CValue.png": "/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/static/media/Nourhan-Shakir.daed320f00c461349137.png",
     "static/media/Book-Store.png": "/static/media/Book-Store.c5e7d51dc520ad5197a9.png",
@@ -42,10 +42,10 @@
     "static/media/axios.svg": "/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/static/media/Mostaql.706ee9f10d588c07a959252d15e3b233.svg",
     "main.7f74c9da.css.map": "/static/css/main.7f74c9da.css.map",
-    "main.f7b93101.js.map": "/static/js/main.f7b93101.js.map"
+    "main.18614816.js.map": "/static/js/main.18614816.js.map"
   },
   "entrypoints": [
     "static/css/main.7f74c9da.css",
-    "static/js/main.f7b93101.js"
+    "static/js/main.18614816.js"
   ]
 }
