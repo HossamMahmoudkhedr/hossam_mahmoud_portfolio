@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7f74c9da.css",
-    "main.js": "/static/js/main.6c6d3688.js",
+    "main.js": "/static/js/main.f7b93101.js",
     "static/media/CValue.png": "/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/static/media/Nourhan-Shakir.daed320f00c461349137.png",
     "static/media/Book-Store.png": "/static/media/Book-Store.c5e7d51dc520ad5197a9.png",
@@ -14,8 +14,8 @@
     "static/media/Bondi.png": "/static/media/Bondi.8c2174fb7bb7733dcdf3.png",
     "static/media/Light-plus.png": "/static/media/Light-plus.6fbbb16cf61b096f9a96.png",
     "static/media/IMG_yphqhh222-removebg.png": "/static/media/IMG_yphqhh222-removebg.c436d98094c1dd8805b3.png",
-    "static/media/Hossam Mahmoud CV_Frontend.pdf": "/static/media/Hossam Mahmoud CV_Frontend.1ab32bcbd7b6a2f72f3f.pdf",
     "static/media/Simah.png": "/static/media/Simah.c02ee25190a1ea39760f.png",
+    "static/media/Hossam Mahmoud CV_Frontend.pdf": "/static/media/Hossam Mahmoud CV_Frontend.2d0d6ce6aa3780ce4389.pdf",
     "static/media/laptop-png-6759.png": "/static/media/laptop-png-6759.9a57d78c3d3284e9a6ea.png",
     "static/media/sass.svg": "/static/media/sass.42455570c03ecd31e2ac26939c8b7be1.svg",
     "static/media/react.svg": "/static/media/react.75fb4c92c811031b6d282410dd8d4d06.svg",
@@ -42,10 +42,10 @@
     "static/media/axios.svg": "/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/static/media/Mostaql.706ee9f10d588c07a959252d15e3b233.svg",
     "main.7f74c9da.css.map": "/static/css/main.7f74c9da.css.map",
-    "main.6c6d3688.js.map": "/static/js/main.6c6d3688.js.map"
+    "main.f7b93101.js.map": "/static/js/main.f7b93101.js.map"
   },
   "entrypoints": [
     "static/css/main.7f74c9da.css",
-    "static/js/main.6c6d3688.js"
+    "static/js/main.f7b93101.js"
   ]
 }
