@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f74c9da.css",
+    "main.css": "/static/css/main.c9f4b342.css",
     "main.js": "/static/js/main.18614816.js",
     "static/media/CValue.png": "/static/media/CValue.b0559a0470f2d656b685.png",
     "static/media/Nourhan-Shakir.png": "/static/media/Nourhan-Shakir.daed320f00c461349137.png",
@@ -41,11 +41,11 @@
     "static/media/html5.svg": "/static/media/html5.2f24f570ceceefab775add2eec442919.svg",
     "static/media/axios.svg": "/static/media/axios.fa7ae8c9ba2b783306037fb6eb2b5d20.svg",
     "static/media/Mostaql.svg": "/static/media/Mostaql.706ee9f10d588c07a959252d15e3b233.svg",
-    "main.7f74c9da.css.map": "/static/css/main.7f74c9da.css.map",
+    "main.c9f4b342.css.map": "/static/css/main.c9f4b342.css.map",
     "main.18614816.js.map": "/static/js/main.18614816.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f74c9da.css",
+    "static/css/main.c9f4b342.css",
     "static/js/main.18614816.js"
   ]
 }
