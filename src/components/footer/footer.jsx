@@ -83,7 +83,8 @@ const Footer = () => {
 							alt="Twitter"
 						/>
 					</a>
-					<a
+					
+{/* 					<a
 						href="https://mostaql.com/u/Hossam_Mahmoud4"
 						target="_blank"
 						rel="noreferrer">
@@ -91,7 +92,7 @@ const Footer = () => {
 							src={Mostaql}
 							alt="Hire me on Mostaql"
 						/>
-					</a>
+					</a> */}
 				</Stack>
 			</Stack>
 			<Typography
