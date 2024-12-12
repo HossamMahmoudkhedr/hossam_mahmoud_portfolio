@@ -4,7 +4,7 @@ export const exData = [
 		name: 'Frontend Freelancer',
 		type: 'Freelance',
 		about: {
-			date: 'January 2023 - present',
+			date: 'May 2023 - present',
 			info: 'I have gained valuable experience working as a freelancer on various web development projects. I have collaborated with clients from diverse industries, helping them bring their ideas to life and achieve their online goals. I have worked on the frontend development for their websites from A to Z and fixing any issues or error in these websites.',
 			subTitle: 'Notable Projects',
 			list: [
