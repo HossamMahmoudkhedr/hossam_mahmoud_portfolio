@@ -94,7 +94,10 @@ const Exed = () => {
 
 	// Active the clicked item and set the chosen object
 	const handleExperienceClick = (e) => {
-		const allOptions = document.querySelectorAll('.experience');
+		// const allOptions = document.querySelectorAll('.experience');
+		const allOptions = document.querySelectorAll(
+			data === exData ? '.experience' : '.education'
+		);
 		const clickedElement = e.currentTarget;
 		const id = clickedElement.id;
 
@@ -203,7 +206,11 @@ const Exed = () => {
 						})}
 					</Stack>
 				</Stack>
-				<Stack sx={{ position: 'relative', overflow: 'hidden' }}>
+				<Stack
+					sx={{
+						position: 'relative',
+						overflow: 'hidden',
+					}}>
 					{showIcon && items[item]}
 					<Stack
 						component={motion.div}

@@ -1,5 +1,20 @@
 export const edData = [
 	{
+		id: 2,
+		name: 'nformation Technology Institute (ITI)',
+		type: 'Intensive 9-Month Coding Program',
+		about: {
+			date: 'October 2024 - Present',
+			info: 'Enrolled in the Open-Source Applications Development track, gaining expertise in full-stack development, open-source technologies, and software engineering through intensive training and practical projects.',
+			subTitle: '',
+			list: [],
+		},
+		moreInfo: {
+			title: '',
+			text: '',
+		},
+	},
+	{
 		id: 1,
 		name: 'Bachelor in Computer Science',
 		type: 'Damanhour University',

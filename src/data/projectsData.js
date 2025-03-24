@@ -56,17 +56,17 @@ export const projData = [
 		gitLink: 'https://github.com/HossamMahmoudkhedr/theme-consulting',
 		done: true,
 	},
-	{
-		id: 2,
-		name: 'CValue',
-		describtion:
-			'A website to create your professional CV with the power of AI, ensuring it passes the ATS test and boosts your chances of securing that crucial first interview.',
-		languages: [icons.react, icons.mui, icons.axios, icons.css],
-		image: 'CValue1.png',
-		link: '#',
-		gitLink: '#',
-		done: false,
-	},
+	// {
+	// 	id: 2,
+	// 	name: 'CValue',
+	// 	describtion:
+	// 		'A website to create your professional CV with the power of AI, ensuring it passes the ATS test and boosts your chances of securing that crucial first interview.',
+	// 	languages: [icons.react, icons.mui, icons.axios, icons.css],
+	// 	image: 'CValue1.png',
+	// 	link: '#',
+	// 	gitLink: '#',
+	// 	done: false,
+	// },
 	{
 		id: 3,
 		name: 'Portfolio Website',
@@ -77,7 +77,7 @@ export const projData = [
 		link: 'https://hossammahmoudkhedr.github.io/Architecture-Engineer-Portfolio-Website/',
 		gitLink:
 			'https://github.com/HossamMahmoudkhedr/Architecture-Engineer-Portfolio-Website',
-		done: true,
+		done: false,
 	},
 	{
 		id: 4,
