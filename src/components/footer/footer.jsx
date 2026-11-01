@@ -5,7 +5,7 @@ import Upwork from '../../assets/icons/upwork 1.svg';
 import Linkedin from '../../assets/icons/linkedin.svg';
 import Github from '../../assets/icons/github2.svg';
 import Twitter from '../../assets/icons/twitter.svg';
-import Mostaql from '../../assets/icons/Mostaql.svg';
+// import Mostaql from '../../assets/icons/Mostaql.svg';
 import WhatsApp from '../../assets/icons/whatsapp.svg';
 
 const Footer = () => {
