@@ -13,7 +13,7 @@ export const data = [
 	{
 		id: 3,
 		name: 'Email',
-		value: 'hossamkheder9999@gmail.com',
+		value: 'hossam.m.khedr@gmail.com',
 	},
 	{
 		id: 4,
