@@ -1,62 +1,94 @@
 import { icons } from '../utils/icons';
+
 export const skills = [
 	{
 		id: 1,
 		name: 'HTML',
-		info: 'Proficient in writing clean, semantic HTML code and creating well-structured website layouts. Experienced in using HTML to implement responsive designs, optimize for search engines (SEO), and enhance accessibility. Skilled in integrating HTML with CSS and JavaScript to develop interactive and dynamic web pages.',
+		info: 'Proficient in writing clean, semantic HTML code and creating well-structured website layouts. Experienced in implementing responsive designs, improving accessibility, and integrating HTML with CSS and JavaScript.',
 		icon: icons.html,
 	},
 	{
 		id: 2,
 		name: 'CSS',
-		info: 'Proficient in writing efficient CSS code and creating visually appealing and responsive designs. Skilled in utilizing CSS frameworks like Bootstrap and preprocessors like SASS to streamline development workflows. Experienced in implementing animations, transitions, and optimizing stylesheets for performance.',
+		info: 'Proficient in writing efficient CSS code and creating visually appealing, responsive designs. Experienced with modern CSS techniques, Bootstrap, SASS, animations, transitions, and stylesheet optimization.',
 		icon: icons.css,
 	},
 	{
 		id: 3,
 		name: 'JavaScript',
-		info: 'I have a strong command of JavaScript, which allows me to bring life and interactivity to web applications. With my expertise in writing clean and efficient JavaScript code, I can create dynamic user interfaces that provide a smooth and engaging experience for users. I have the experience in handling DOM manipulation, implementing API calls, or creating interactive animations.',
+		info: 'Strong understanding of JavaScript and its core concepts. Experienced in DOM manipulation, asynchronous programming, API integration, ES6+ features, and building interactive web applications.',
 		icon: icons.javascript,
 	},
 	{
 		id: 4,
-		name: 'React.js',
-		info: 'Experienced in building complex applications using React.js and its ecosystem. Proficient in designing reusable components, managing state and props, and utilizing React Router for efficient navigation. Skilled in integrating external libraries, handling form inputs, and optimizing React applications for speed and performance.',
-		icon: icons.react,
+		name: 'TypeScript',
+		info: 'Experienced in using TypeScript to build more reliable and maintainable applications. Familiar with static typing, interfaces, type aliases, generics, and integrating TypeScript into React applications.',
+		icon: icons.typescript,
 	},
 	{
 		id: 5,
-		name: 'Redux',
-		info: ' Experienced in utilizing Redux for state management in complex JavaScript applications. Proficient in setting up Redux stores, defining actions, reducers, and connecting components. Skilled in managing application state, handling asynchronous operations with middleware, and optimizing Redux architecture.',
-		icon: icons.redux,
+		name: 'React.js',
+		info: 'Experienced in building complex applications using React.js and its ecosystem. Proficient in designing reusable components, managing application state, handling routing, integrating APIs, and optimizing application performance.',
+		icon: icons.react,
 	},
 	{
 		id: 6,
+		name: 'Redux',
+		info: 'Experienced in utilizing Redux and Redux Toolkit for state management in complex JavaScript applications. Skilled in managing application state, handling asynchronous operations, and organizing scalable state architectures.',
+		icon: icons.redux,
+	},
+	{
+		id: 7,
 		name: 'Bootstrap',
-		info: "Proficient in utilizing Bootstrap framework to create responsive and mobile-first websites. Skilled in leveraging Bootstrap's grid system, components, and utilities to streamline development and ensure consistent styling across different devices. Experienced in customizing and extending Bootstrap to meet specific project requirements.",
+		info: 'Proficient in utilizing Bootstrap to create responsive and mobile-first websites. Experienced in leveraging its grid system, components, and utilities to build consistent user interfaces.',
 		icon: icons.bootstrap,
 	},
 	{
-		id: 7,
+		id: 8,
 		name: 'TailwindCSS',
-		info: "Experienced in harnessing the power of the Tailwind CSS framework to craft responsive and mobile-friendly web interfaces. Proficient in utilizing Tailwind's utility-first approach, I create efficient and visually consistent designs across various screen sizes. Well-versed in Tailwind's extensive set of utility classes, I streamline development by rapidly implementing styles without compromising flexibility.",
+		info: 'Experienced in using Tailwind CSS to build responsive and maintainable user interfaces. Proficient in its utility-first approach and creating consistent designs across different screen sizes.',
 		icon: icons.tailwind,
 	},
 	{
-		id: 8,
+		id: 9,
+		name: 'Python',
+		info: 'Experienced in developing backend applications using Python. Familiar with object-oriented programming, data structures, exception handling, context managers, modules, and writing clean, maintainable code.',
+		icon: icons.python ?? '',
+	},
+	{
+		id: 10,
+		name: 'FastAPI',
+		info: 'Experienced in building backend applications and RESTful APIs using FastAPI. Familiar with dependency injection, request validation, Pydantic models, middleware, asynchronous endpoints, and API documentation.',
+		icon: icons.fastapi ?? '',
+	},
+	{
+		id: 11,
+		name: 'SQL',
+		info: 'Experienced in writing SQL queries and working with relational databases. Familiar with joins, subqueries, aggregations, indexes, constraints, transactions, and database schema design.',
+		icon: icons.sql ?? '',
+	},
+	{
+		id: 12,
+		name: 'PostgreSQL',
+		info: 'Experienced in working with PostgreSQL to manage relational databases for backend applications. Familiar with database design, relationships, constraints, query optimization, and data integrity.',
+		icon: icons.postgresql ?? '',
+	},
+	{
+		id: 13,
+		name: 'SQLAlchemy',
+		info: 'Experienced in working with SQLAlchemy as an Object-Relational Mapper (ORM). Familiar with defining models, managing relationships, querying databases, handling sessions, and integrating database operations into Python applications.',
+		icon: icons.sqlalchemy ?? '',
+	},
+	{
+		id: 14,
+		name: 'REST APIs',
+		info: 'Experienced in designing, developing, and integrating RESTful APIs. Familiar with HTTP methods, status codes, request and response handling, authentication, authorization, and API integration between frontend and backend applications.',
+		icon: icons.api ?? '',
+	},
+	{
+		id: 15,
 		name: 'Git',
-		info: 'Proficient in utilizing Git for version control and collaboration. Skilled in managing repositories, branching, merging, and resolving conflicts. Experienced in leveraging GitHub for project hosting, issue tracking, and contributing to open-source projects. Knowledgeable in Git workflows, including feature branching and pull request-based development.',
-		icon: icons.git,
+		info: 'Proficient in utilizing Git for version control and collaboration. Skilled in managing repositories, branching, merging, resolving conflicts, and working with GitHub and pull request-based workflows.',
+		icon: icons.git ?? '',
 	},
 ];
-
-/*
-
-{
-		id: 7,
-		name: 'SASS',
-		info: 'Proficient in using SASS to write modular and maintainable CSS code. Skilled in leveraging SASS features like variables, mixins, and nesting to improve efficiency and code organization. Experienced in utilizing SASS frameworks and building reusable stylesheets for large-scale projects.',
-		icon: icons.sass,
-	},
-
-*/
