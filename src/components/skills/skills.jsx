@@ -101,7 +101,7 @@ const Skills = () => {
 					sx={{
 						height: '547px',
 						position: 'sticky',
-						top:'10px',
+						top:'25px',
 						left:'50%',
 						width: { xs: '100%', lg: '74%' },
 						padding: { xs: '2rem 1.5rem', lg: '3rem 5.5rem' },
