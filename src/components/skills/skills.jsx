@@ -41,7 +41,7 @@ const Skills = () => {
 				headerText="Skills"
 			/>
 			<Stack
-				sx={{ flexDirection: { sm: 'column', lg: 'row' } }}
+				sx={{ flexDirection: { sm: 'column', lg: 'row' }, position:'relative' }}
 				gap="1rem">
 				<Timeline
 					position="alternate"
@@ -99,6 +99,10 @@ const Skills = () => {
 					borderRadius="10px"
 					boxShadow="3px 3px 29px 0px rgba(255, 154, 141, 0.25)"
 					sx={{
+						height: '547px',
+						position: 'sticky',
+						top:10px,
+						left:50%,
 						width: { xs: '100%', lg: '74%' },
 						padding: { xs: '2rem 1.5rem', lg: '3rem 5.5rem' },
 					}}>
