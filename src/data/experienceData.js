@@ -1,5 +1,27 @@
 export const exData = [
 	{
+    id: 1,
+    name: 'Software Engineer',
+    type: 'Full-time',
+    about: {
+        date: 'AUG 2025 - Present',
+        info: 'Working as a Software Engineer at Vodafone Intelligent Solutions (VOIS), contributing to the development and maintenance of backend applications and services. Working with Python, FastAPI, and PostgreSQL to build scalable APIs, implement business logic, and integrate database solutions. Collaborating with cross-functional teams in an international environment, following software engineering best practices, and contributing to the delivery of reliable and maintainable solutions.',
+        subTitle: 'Key Responsibilities',
+        list: [
+            'Developing and maintaining backend services and RESTful APIs using Python and FastAPI',
+            'Designing and managing database schemas, queries, and integrations using PostgreSQL',
+            'Implementing business logic and backend features based on business requirements',
+            'Collaborating with international teams and participating in code reviews and technical discussions',
+            'Following clean code principles, software engineering best practices, and maintainable architecture patterns',
+			'Contributing to frontend development by implementing user interfaces and integrating them with backend APIs',
+        ],
+    },
+    moreInfo: {
+        title: '',
+        text: '',
+    },
+},
+	{
 		id: 2,
 		name: 'Frontend Freelancer',
 		type: 'Freelance',
