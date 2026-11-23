@@ -125,7 +125,7 @@ const Home = () => {
 							variants={titleVariants}
 							initial="hidden"
 							animate="visible">
-							I am a frontend web developer
+							I am a full-stack developer
 						</Typography>
 					</Stack>
 					<motion.a
