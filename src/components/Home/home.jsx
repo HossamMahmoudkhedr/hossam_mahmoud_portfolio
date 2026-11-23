@@ -132,7 +132,7 @@ const Home = () => {
 						variants={buttonVariants}
 						initial="hidden"
 						animate="visible"
-						href="mailto:hossamkheder9999@gmail.com">
+						href="mailto:hossam.m.khedr@gmail.com">
 						<CustomButton
 							beforeWidth={'0%'}
 							beforeBgColorHover="var(--red-text)"
